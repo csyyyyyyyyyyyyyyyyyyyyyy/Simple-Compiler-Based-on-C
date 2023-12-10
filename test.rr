@@ -1,0 +1,16 @@
+int a;
+num g;
+str test; 
+int main(void){
+    int x;
+    int result; 
+    if(x>0)
+    {
+        x=x+1;
+    }
+    while(1)
+    {
+        x=x+1;
+    }   
+    return 0;
+}

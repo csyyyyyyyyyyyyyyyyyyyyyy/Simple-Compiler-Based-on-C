@@ -1,0 +1,14 @@
+int main(void){
+    int x, result; 
+    prt("str","please input an integer");
+    get("int",&x); 
+    x = x + 5 ; 
+    =(result, fib(x)) ;
+    prt("str", "fib( " + x + ") is: " );
+    prt("int", result);
+    prt("int", "\n");
+    prttm(t);
+    prt("str", " = ");
+    prttm((t)); 
+    return 0; 
+}
